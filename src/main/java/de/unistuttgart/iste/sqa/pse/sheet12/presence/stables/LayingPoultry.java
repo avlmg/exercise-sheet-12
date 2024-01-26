@@ -6,6 +6,7 @@ import java.util.Optional;
  * This class represents a laying poultry which can be bred in the stable.
  *
  * @version 1.0
+ * @AmoresSchneyinck
  */
 public class LayingPoultry {
 	private final int id;
