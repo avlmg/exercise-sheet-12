@@ -40,7 +40,7 @@
 					<execution>
 						<id>SomethingWithCalendars</id>
 						<configuration>
-							<mainClass>de.unistuttgart.iste.sqa.pse.sheet12.homework.cleancode.SomethingWithCalendars</mainClass>
+							<mainClass>de.unistuttgart.iste.sqa.pse.sheet12.homework.cleancode.DateOfTheWeek</mainClass>
 						</configuration>
 					</execution>
 				</executions>
